@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Gal Asulin 👋</h1>
 
 <p align="center">
-  Home-automation enthusiast & self-taught developer from Israel 🇮🇱
+  Self-taught full-stack developer & home-automation enthusiast from Israel 🇮🇱
   <br/>
-  <sub>Building, breaking and documenting my smart home — and learning to code along the way.</sub>
+  <sub>Building real software end-to-end — and a smart home on the side.</sub>
 </p>
 
 <p align="center">
@@ -14,32 +14,42 @@
 
 ### 🇬🇧 About me
 
-- 🏠 I run a fully automated smart home on **Home Assistant** (Docker on an **Unraid** server).
-- 🧩 I like wiring things together — devices, dashboards, automations — and documenting the setup so others can reuse it.
-- 🌱 Currently learning: **Python & JavaScript**.
-- 💬 Ask me about: Home Assistant, Lovelace dashboards, Docker, home networking.
+- 💻 I build full-stack web apps — currently a bilingual (Hebrew RTL / English) **ASP.NET Core 8 + React 19** clinic management system (EMR/CRM).
+- 🧩 I like designing engines, not screens: form builders, rule/narrative engines, and configurable modules over hard-coded pages.
+- 🏠 I also run a fully automated smart home on **Home Assistant** (Docker on an **Unraid** server) and document the setup.
+- 🌱 Currently going deeper on: **.NET, React/TypeScript & system design**.
 - 📫 Reach me at **asulin890@gmail.com**.
 
 ### 🇮🇱 בקצרה
 
-מתעניין בבית חכם ובאוטומציה, ומפתח בלמידה עצמית מישראל. מריץ Home Assistant על שרת Unraid עם Docker, אוהב לחבר בין מערכות ולתעד את ההגדרות כדי שאחרים יוכלו להשתמש בהן. מוזמנים לכתוב לי על בית חכם, דשבורדים ו‑Docker.
+מפתח full-stack בלמידה עצמית מישראל. בונה אפליקציות web מקצה לקצה — כרגע מערכת ניהול מרפאה דו-לשונית על ASP.NET Core 8 + React 19, עם דגש על מנועים מודולריים (Form Builder, מנוע נרטיב, הרשאות) במקום מסכים קשיחים. בנוסף מריץ בית חכם על Home Assistant (Docker/Unraid) ומתעד את ההגדרות.
 
 ---
 
 ### 🛠️ Tech & Tools
 
+**Development**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+**Home lab**
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat&logo=home-assistant&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Unraid](https://img.shields.io/badge/Unraid-F15A2C?style=flat&logo=unraid&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
 
 ---
 
 ### 📌 Featured project
 
 **[My-HomeAssistant-Config](https://github.com/galasulin/My-HomeAssistant-Config)** — my personal Home Assistant configuration: packages, Lovelace UI and automations for a mobile-first smart home, running in Docker on Unraid.
+
+<sub>More projects (including a full-stack clinic EMR/CRM) are in private development — happy to walk through them on request.</sub>
 
 ---
 

@@ -1,12 +1,13 @@
 <h1 align="center">Hi, I'm Gal Asulin 👋</h1>
 
 <p align="center">
-  Self-taught full-stack developer & home-automation enthusiast from Israel 🇮🇱
+  IT Manager · self-taught full-stack developer · home-lab tinkerer — from Israel 🇮🇱
   <br/>
-  <sub>Building real software end-to-end — and a smart home on the side.</sub>
+  <sub>I run infrastructure, build software end-to-end, and automate everything I can.</sub>
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/gal-asulin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:asulin890@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -14,19 +15,35 @@
 
 ### 🇬🇧 About me
 
-- 💻 I build full-stack web apps — currently a bilingual (Hebrew RTL / English) **ASP.NET Core 8 + React 19** clinic management system (EMR/CRM).
-- 🧩 I like designing engines, not screens: form builders, rule/narrative engines, and configurable modules over hard-coded pages.
-- 🏠 I also run a fully automated smart home on **Home Assistant** (Docker on an **Unraid** server) and document the setup.
-- 🌱 Currently going deeper on: **.NET, React/TypeScript & system design**.
-- 📫 Reach me at **asulin890@gmail.com**.
+- 🖥️ **IT Manager** — I run and maintain IT infrastructure: networks, Windows Server / Active Directory, systems and end-user support.
+- 💻 **Full-stack developer (self-taught)** — I build real web apps end-to-end; currently a bilingual (Hebrew RTL / English) clinic CRM/EMR on **ASP.NET Core 8 + React 19**.
+- 🧩 I like designing **engines, not screens** — form builders, narrative/rule engines and configurable modules over hard-coded pages.
+- 🏠 **Home lab** — a fully automated smart home on **Home Assistant** (Docker on **Unraid**), documented and reproducible.
+- 🌱 Currently going deeper on: **.NET, React/TypeScript & cloud/system design**.
 
 ### 🇮🇱 בקצרה
 
-מפתח full-stack בלמידה עצמית מישראל. בונה אפליקציות web מקצה לקצה — כרגע מערכת ניהול מרפאה דו-לשונית על ASP.NET Core 8 + React 19, עם דגש על מנועים מודולריים (Form Builder, מנוע נרטיב, הרשאות) במקום מסכים קשיחים. בנוסף מריץ בית חכם על Home Assistant (Docker/Unraid) ומתעד את ההגדרות.
+מנהל IT וגם מפתח full-stack בלמידה עצמית. מנהל תשתיות (רשתות, Windows Server/AD, סיסטם ותמיכה), בונה אפליקציות web מקצה לקצה — כרגע מערכת ניהול מרפאה דו-לשונית על ASP.NET Core 8 + React 19, עם דגש על מנועים מודולריים. בנוסף מריץ בית חכם מלא על Home Assistant‏ (Docker/Unraid).
+
+---
+
+### 🏅 Certifications
+
+![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Microsoft MCSA](https://img.shields.io/badge/Microsoft-MCSA-0078D4?style=flat&logo=microsoft&logoColor=white)
+
+<sub>Professional IT training at John Bryce.</sub>
 
 ---
 
 ### 🛠️ Tech & Tools
+
+**IT & Infrastructure**
+![Cisco](https://img.shields.io/badge/Networking%20(CCNA)-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server%20%2F%20AD-0078D4?style=flat&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Unraid](https://img.shields.io/badge/Unraid-F15A2C?style=flat&logo=unraid&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 **Development**
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
@@ -36,11 +53,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
-**Home lab**
+**Home automation**
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat&logo=home-assistant&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Unraid](https://img.shields.io/badge/Unraid-F15A2C?style=flat&logo=unraid&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
 
 ---

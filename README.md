@@ -45,11 +45,10 @@
 
 ---
 
-### 📌 Featured project
+### 📌 Featured projects
 
-**[My-HomeAssistant-Config](https://github.com/galasulin/My-HomeAssistant-Config)** — my personal Home Assistant configuration: packages, Lovelace UI and automations for a mobile-first smart home, running in Docker on Unraid.
-
-<sub>More projects (including a full-stack clinic EMR/CRM) are in private development — happy to walk through them on request.</sub>
+- **[clinic-crm](https://github.com/galasulin/clinic-crm)** — showcase of a bilingual (Hebrew RTL / English) clinic CRM/EMR I built: ASP.NET Core 8 + React 19, engine-driven and multi-tenant. High-level overview only — the source is private.
+- **[My-HomeAssistant-Config](https://github.com/galasulin/My-HomeAssistant-Config)** — my personal Home Assistant configuration: packages, Lovelace UI and automations for a mobile-first smart home, running in Docker on Unraid.
 
 ---
 

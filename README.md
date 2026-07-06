@@ -62,6 +62,7 @@
 ### 📌 Featured projects
 
 - **[clinic-crm](https://github.com/galasulin/clinic-crm)** — showcase of a bilingual (Hebrew RTL / English) clinic CRM/EMR I built: ASP.NET Core 8 + React 19, engine-driven and multi-tenant. High-level overview only — the source is private.
+- **[apostherapy-case-study](https://github.com/galasulin/apostherapy-case-study)** — showcase of a full website redesign & build for a medical clinic (WordPress, RTL Hebrew): Lighthouse SEO 100, WCAG 2.1 AA accessibility and a unified email-plus-CRM lead engine. Presentation only — the source is private.
 - **[My-HomeAssistant-Config](https://github.com/galasulin/My-HomeAssistant-Config)** — my personal Home Assistant configuration: packages, Lovelace UI and automations for a mobile-first smart home, running in Docker on Unraid.
 
 ---

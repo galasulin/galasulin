@@ -16,14 +16,14 @@
 ### 🇬🇧 About me
 
 - 🖥️ **IT Manager** — I run and maintain IT infrastructure: networks, Windows Server / Active Directory, systems and end-user support.
-- 💻 **Full-stack developer (self-taught)** — I build real web apps end-to-end; currently a bilingual (Hebrew RTL / English) clinic CRM/EMR on **ASP.NET Core 8 + React 19**.
+- 💻 **Full-stack developer (self-taught)** — I build real web apps end-to-end; currently a bilingual (Hebrew RTL / English) clinic CRM/EMR on **.NET 10 (ASP.NET Core 10) + React 19**.
 - 🧩 I like designing **engines, not screens** — form builders, narrative/rule engines and configurable modules over hard-coded pages.
 - 🏠 **Home lab** — a fully automated smart home on **Home Assistant** (Docker on **Unraid**), documented and reproducible.
 - 🌱 Currently going deeper on: **.NET, React/TypeScript & cloud/system design**.
 
 ### 🇮🇱 בקצרה
 
-מנהל IT וגם מפתח full-stack בלמידה עצמית. מנהל תשתיות (רשתות, Windows Server/AD, סיסטם ותמיכה), בונה אפליקציות web מקצה לקצה — כרגע מערכת ניהול מרפאה דו-לשונית על ASP.NET Core 8 + React 19, עם דגש על מנועים מודולריים. בנוסף מריץ בית חכם מלא על Home Assistant‏ (Docker/Unraid).
+מנהל IT וגם מפתח full-stack בלמידה עצמית. מנהל תשתיות (רשתות, Windows Server/AD, סיסטם ותמיכה), בונה אפליקציות web מקצה לקצה — כרגע מערכת ניהול מרפאה דו-לשונית על ‎.NET 10 (ASP.NET Core 10) + React 19, עם דגש על מנועים מודולריים. בנוסף מריץ בית חכם מלא על Home Assistant‏ (Docker/Unraid).
 
 ---
 
@@ -61,9 +61,10 @@
 
 ### 📌 Featured projects
 
-- **[clinic-crm](https://github.com/galasulin/clinic-crm)** — showcase of a bilingual (Hebrew RTL / English) clinic CRM/EMR I built: ASP.NET Core 8 + React 19, engine-driven and multi-tenant. High-level overview only — the source is private.
+- **[smart-home-showcase](https://github.com/galasulin/smart-home-showcase)** — showcase of my AI-first smart home on Home Assistant: Gemini vision at the front door, Home Front Command alert choreography, mmWave presence and a Telegram command center. **[Live demo](https://galasulin.github.io/smart-home-showcase/)** · real screenshots, personal details removed.
+- **[clinic-crm](https://github.com/galasulin/clinic-crm)** — showcase of a bilingual (Hebrew RTL / English) clinic CRM/EMR I built: .NET 10 + React 19, engine-driven and multi-tenant. High-level overview only — the source is private.
 - **[apostherapy-case-study](https://github.com/galasulin/apostherapy-case-study)** — showcase of a full website redesign & build for a medical clinic (WordPress, RTL Hebrew): Lighthouse SEO 100, WCAG 2.1 AA accessibility and a unified email-plus-CRM lead engine. Presentation only — the source is private.
-- **[My-HomeAssistant-Config](https://github.com/galasulin/My-HomeAssistant-Config)** — my personal Home Assistant configuration: packages, Lovelace UI and automations for a mobile-first smart home, running in Docker on Unraid.
+- **[My-HomeAssistant-Config](https://github.com/galasulin/My-HomeAssistant-Config)** — a fork of [abeksis/My-HomeAssistant-Config](https://github.com/abeksis/My-HomeAssistant-Config) (built on HomeKit Infused), kept in sync as a reference config. Not my own setup — see smart-home-showcase above for that.
 
 ---
 

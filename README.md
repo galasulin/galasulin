@@ -67,6 +67,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-WebGL2-000000?style=flat&logo=threedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
@@ -100,6 +101,7 @@
 
 ### 📌 Featured projects
 
+- **[galstrike](https://github.com/galasulin/galstrike)** — GalStrike, an open-world 3D web-swinging game that runs in the browser: a procedural Manhattan, a custom physics and animation state machine, combat and a full Three.js / WebGL2 rendering pipeline. Built with Claude Code under my direction; I added new suits (including an Israel-flag suit), a start screen, GPU-based auto quality and dynamic resolution. **[Play it in the browser](https://galasulin.github.io/galstrike/)**.
 - **[clinic-crm](https://github.com/galasulin/clinic-crm)** — showcase of the bilingual (Hebrew RTL / English) CRM/EMR I built for our clinics and run in production: .NET 10 + React 19, engine-driven, with real-time updates, telephony (CTI), SMS / WhatsApp and a reporting platform. High-level overview only — the source is private.
 - **[smart-home-showcase](https://github.com/galasulin/smart-home-showcase)** — showcase of my AI-first smart home on Home Assistant: Gemini vision at the front door, Home Front Command alert choreography, mmWave presence and a Telegram command center. **[Live demo](https://galasulin.github.io/smart-home-showcase/)** · real screenshots, personal details removed.
 - **[apostherapy-case-study](https://github.com/galasulin/apostherapy-case-study)** — the AposTherapy website, redesigned and built from scratch (WordPress, RTL Hebrew): Lighthouse SEO 100, built to WCAG 2.1 AA, with a unified email-plus-CRM lead engine. Presentation only — the source is private.

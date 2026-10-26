@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gal-asulin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:asulin890@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -106,6 +105,13 @@
 - **[smart-home-showcase](https://github.com/galasulin/smart-home-showcase)** — showcase of my AI-first smart home on Home Assistant: Gemini vision at the front door, Home Front Command alert choreography, mmWave presence and a Telegram command center. **[Live demo](https://galasulin.github.io/smart-home-showcase/)** · real screenshots, personal details removed.
 - **[apostherapy-case-study](https://github.com/galasulin/apostherapy-case-study)** — the AposTherapy website, redesigned and built from scratch (WordPress, RTL Hebrew): Lighthouse SEO 100, built to WCAG 2.1 AA, with a unified email-plus-CRM lead engine. Presentation only — the source is private.
 - **[super-asulin-showcase](https://github.com/galasulin/super-asulin-showcase)** — case study of a custom WordPress + WooCommerce grocery store I built: a sell-by-weight engine, one-tap ready baskets and an RTL design system. **[Live demo](https://galasulin.github.io/super-asulin-showcase/)** · the source is private.
+- **[report-analyzer-showcase](https://github.com/galasulin/report-analyzer-showcase)** — a Windows tool I built for a gait & posture lab: it reads DIERS, Stabilimeter and Pedogait screenshots and writes a finished Hebrew clinical Word report with Claude (de-identified, every table value read twice). **[Live demo](https://galasulin.github.io/report-analyzer-showcase/?lang=en)** · fictional data only.
+- **[shift-scheduler-showcase](https://github.com/galasulin/shift-scheduler-showcase)** — Sidur, a portable Hebrew-first shift scheduler for multi-branch businesses (Tauri 2 + React + Rust + SQLite): design, spec and an interactive demo. **[Live demo](https://galasulin.github.io/shift-scheduler-showcase/demo/)** · the source is private.
+- **Landing pages** I designed and built for the clinic network (RTL Hebrew; portfolio copies with tracking removed and the form disconnected):
+  - **[apos4-scroll-landing](https://github.com/galasulin/apos4-scroll-landing)** — APOS4 product page where the system comes apart and snaps back together as you scroll (frame-sequence animation). **[Live](https://galasulin.github.io/apos4-scroll-landing/)**
+  - **[apostherapy-research-landing](https://github.com/galasulin/apostherapy-research-landing)** — a research-led page with 3D, scroll and counter animations. **[Live](https://galasulin.github.io/apostherapy-research-landing/)**
+  - **[apostherapy-lead-landing](https://github.com/galasulin/apostherapy-lead-landing)** — the original lead-capture page. **[Live](https://galasulin.github.io/apostherapy-lead-landing/)**
+- **[linkedin-agent-he](https://github.com/galasulin/linkedin-agent-he)** — my Hebrew LinkedIn agent skill for Claude: writes posts about servers, IT and cyber in natural Hebrew, humanizes and scores every draft, and publishes through the browser only after I approve the exact text.
 - **[supermarket-barcode-scanner](https://github.com/galasulin/supermarket-barcode-scanner)** — open source (MIT): a phone barcode scanner used to catalogue that store. One static HTML file plus a small WordPress REST plugin, with one list shared live across phones.
 
 **Other**

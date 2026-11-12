@@ -25,9 +25,13 @@
 - 🏠 **Home lab** — an AI-first smart home on **Home Assistant OS** (Zigbee2MQTT, Frigate, Gemini vision, a Telegram bot), documented in [smart-home-showcase](https://github.com/galasulin/smart-home-showcase).
 - 🌱 Currently going deeper on: **.NET, React/TypeScript & cloud/system design**.
 
-### בקצרה 🇮🇱
+<h3 dir="rtl" align="right">בקצרה 🇮🇱</h3>
+
+<div dir="rtl" align="right">
 
 מנהל IT ב-AposTherapy, רשת מכוני פיזיותרפיה עם חמישה סניפים: רשתות, Windows Server/AD, גישה מרחוק, מרכזייה בענן ומוקד טלפוני, גיבויים וציוד בכל הסניפים. במקביל מפתח full-stack בלמידה עצמית — תכננתי ובניתי את מערכת ה-CRM/EMR של המכונים, שנמצאת בשימוש יומיומי (‎.NET 10 + React 19, SQL Server, טלפוניה, SMS ו-WhatsApp). בונה מאפס אתרי WordPress בעברית לפי תקן הנגישות, עובד עם סוכני AI לפיתוח תחת כללי בדיקה קפדניים, ומריץ בבית בית חכם מבוסס AI על Home Assistant OS.
+
+</div>
 
 ---
 
